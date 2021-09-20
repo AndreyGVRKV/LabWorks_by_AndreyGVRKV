@@ -5,6 +5,7 @@
 *.o
 *.ko
 *.obj
+
 *.elf
 
 # Linker output
@@ -17,7 +18,7 @@
 *.pch
 
 # Libraries
-*.lib
+
 *.a
 *.la
 *.lo
