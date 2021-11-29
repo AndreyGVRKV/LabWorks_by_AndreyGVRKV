@@ -32,9 +32,9 @@ int main(void)
 {
     struct Zachetka z = 
     {
-        .firstName = "Pavel",
-        .middleName = "Sergeevich",
-        .lastName = "Plotnikov",
+        .firstName = "Andrey",
+        .middleName = "Gennadievich",
+        .lastName = "Gavrikov",
         .terms =
         {
             {
